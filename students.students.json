@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "671eef6ad43bcda5ae86b01d"
+  },
+  "name": "spongebob",
+  "age": 30,
+  "gpa": 3.2,
+  "fullTime": true,
+  "fulltime": true
+},
+{
+  "_id": {
+    "$oid": "671eefd4d43bcda5ae86b01e"
+  },
+  "name": "kumar",
+  "age": 19,
+  "fullTime": "True"
+},
+{
+  "_id": {
+    "$oid": "671eefd4d43bcda5ae86b01f"
+  },
+  "name": "dhinesh",
+  "age": 20,
+  "fulltime": true
+},
+{
+  "_id": {
+    "$oid": "671f8793a64df3e4c4f81231"
+  },
+  "name": "dhineshkumar",
+  "age": 19,
+  "area": "CSE",
+  "fulltime": true
+},
+{
+  "_id": {
+    "$oid": "671f894a4c3595fce286b01d"
+  },
+  "name": "Larry",
+  "age": 32,
+  "gpa": 2.8,
+  "fulltime": true
+},
+{
+  "_id": {
+    "$oid": "671f89c34c3595fce286b01e"
+  },
+  "name": "Larry",
+  "age": 32,
+  "gpa": 2.8,
+  "fullTime": false,
+  "registerDate": {
+    "$date": "2024-10-28T12:55:31.215Z"
+  },
+  "gradutionDate": null,
+  "fulltime": true
+}]
